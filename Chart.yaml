@@ -26,4 +26,4 @@ appVersion: "1.16.0"
 dependencies:
 - name: base
   version: "0.1.0"
-  repository: "oci://gitlab.warungpintar.co/api/v4/projects/886/packages/helm/stable"
+  repository: "oci://gitlab.warungpintar.co"
